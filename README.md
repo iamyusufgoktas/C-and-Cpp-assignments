@@ -20,10 +20,10 @@ This C code demonstrates a simple record deletion mechanism for managing book in
 * File Replacement: Removes the original file and renames the temporary file to update the book information.
 
 ## How to Use:
-* 		Compile the code using a C compiler.
-* 		Run the executable.
-* 		Follow on-screen prompts to enter the book ID for deletion.
-* 		The program updates the file, removing the specified record.
+1. Compile the code using a C compiler.
+2. Run the executable.
+3. Follow on-screen prompts to enter the book ID for deletion.
+4. The program updates the file, removing the specified record.
 
 
 
@@ -39,10 +39,10 @@ This C++ program exemplifies area calculation by computing and displaying the ar
 * Clear Output: Provides clear and formatted output for the calculated areas of the rectangle and cone.
 
 ## How to Use:
-* 		Compile the code using a C++ compiler.
-* 		Run the executable.
-* 		Follow on-screen prompts to input dimensions for the rectangle and cone.
-* 		The program calculates and displays the areas of the geometric shapes.
+1. Compile the code using a C++ compiler.
+2. Run the executable.
+3. Follow on-screen prompts to input dimensions for the rectangle and cone.
+4. The program calculates and displays the areas of the geometric shapes.
 
 
 
@@ -57,7 +57,7 @@ Explore a C++ program showcasing input validation for user-provided information,
 * Clear Output: Prints the collected user information once valid inputs are provided.
 
 ## How to Use:
-* 		Compile the code using a C++ compiler.
-* 		Run the executable.
-* 		Follow on-screen prompts to enter name, surname, and student number.
-* 		If invalid input is detected, error messages guide the user to re-enter specific information.
+1. Compile the code using a C++ compiler.
+2. Run the executable.
+3. Follow on-screen prompts to enter name, surname, and student number.
+4. If invalid input is detected, error messages guide the user to re-enter specific information.
